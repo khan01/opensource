@@ -69,10 +69,3 @@ List of Open Source Softwares in different Niche
 <ul>
    <li><a href="https://www.openstreetmap.org/">OpenStreetMap</a> - A collaborative mapping project that provides free geographic data and mapping to anyone who wants to use it.</li>
 </ul>
-
-<h2>Social Media Schedulers </h2>
-
-<ul>
-   <li><a href="https://github.com/MattMansfield/social-media-scheduler">Social Media Scheduler GitHub</a> - A simple open-source tool for scheduling social media posts across multiple platforms.</li>
-   <li><a href="https://github.com/raphaelfabeni/schedullo">Schedullo GitHub</a> - A self-hosted social media scheduler that allows users to schedule posts for various platforms.</li>
-</ul>
