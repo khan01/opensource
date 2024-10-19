@@ -31,6 +31,15 @@ List of Open Source Softwares in different Niche
    <li><a href="https://rocket.chat/">Rocket.Chat</a> - A flexible and customizable open-source communication platform for team collaboration and messaging.</li>
 </ul>
 
+<h2>Automations</h2>
+<ul>
+   <li><a href="https://n8n.io">n8n</a> - A powerful workflow automation tool that allows you to connect various apps and services with a user-friendly interface.</li>
+   <li><a href="https://nodered.org">Node-RED</a> - A flow-based development tool for visual programming, ideal for connecting IoT devices and APIs.</li>
+   <li><a href="https://airflow.apache.org">Apache Airflow</a> - A platform to programmatically author, schedule, and monitor workflows, suitable for managing data workflows.</li>
+   <li><a href="https://github.com/huginn/huginn">Huginn</a> - A system for building agents that perform automated tasks online, allowing you to create agents for various events.</li>
+   <li><a href="https://baserow.io">Baserow</a> - An open-source no-code database tool that can be integrated with various services, providing automation capabilities.</li>
+</ul>
+
 <h2>Document Collaboration</h2>
 <ul>
    <li><a href="https://www.onlyoffice.com/">OnlyOffice</a> - A collaborative document editing platform that integrates with various services for enhanced productivity.</li>
