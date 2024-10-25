@@ -11,6 +11,11 @@ List of Open Source Softwares in different Niche
    <li><a href="https://matomo.org/">Matomo</a> - A powerful web analytics platform that gives you full control over your data, offering insights into visitor behavior and website performance.</li>
 </ul>
 
+<h2>Email Servers</h2>
+<ul>
+<li><a href="https://mailcow.email/">Mailcow</a> - A secure, open-source email server solution providing end-to-end encryption, anti-spam filtering, and customizable settings for self-hosted email management.</li>
+</ul>
+
 <h2>SEO Ranking</h2>
 <ul>
    <li><a href="https://www.gsa-online.de/en/seo-software/gsa-search-ranker/">GSA Search Ranker</a> - A comprehensive SEO ranking tool that helps improve your website’s visibility and track search engine positions.</li>
