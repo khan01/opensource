@@ -12,8 +12,7 @@ List of Open Source Softwares in different Niche
 
    <li> <a href="https://www.openwebanalytics.com/">Open Web Analytics </a> - A free, open-source web analytics platform that offers heat maps, A/B testing, and conversion tracking.</li>
    <li> <a href="https://pirsch.io/">Pirsch</a> is a simple, privacy-friendly, open-source alternative to Google Analytics — lightweight, cookie-free and easily integrated into any website.</li>
-    
-    <li> <a href="https://plausible.io/">Plausible</a>  is intuitive, lightweight and open source web analytics. No cookies and fully compliant with GDPR, CCPA and PECR.</li>
+    <li> <a href="https://plausible.io/">Plausible</a>  is intuitive, lightweight and open source web analytics. No cookies and fully compliant with GDPR, CCPA and PECR. </li>
     
 </ul>
 
