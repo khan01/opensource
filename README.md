@@ -9,6 +9,9 @@ List of Open Source Softwares in different Niche
 <h2>Web Analytics</h2>
 <ul>
    <li><a href="https://matomo.org/">Matomo</a> - A powerful web analytics platform that gives you full control over your data, offering insights into visitor behavior and website performance.</li>
+
+    <li><a href="https://www.openwebanalytics.com/">Open Web Analytics </a> - A free, open-source web analytics platform that offers heat maps, A/B testing, and conversion tracking.</li>
+    
 </ul>
 
 <h2>Email Servers</h2>
