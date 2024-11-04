@@ -60,7 +60,7 @@ List of Open Source Softwares in different Niche
    <li><a href="https://nextcloud.com/">NextCloud</a> - An open-source cloud storage solution that allows for file sharing, collaboration, and secure data management.</li>
 </ul>
 
-<h2>CRMs</h2>
+<h2>ERP - CRM</h2>
 <ul>
    <li><a href="https://suitecrm.com/">SuiteCRM</a> - A widely used fork of SugarCRM, offering extensive features for sales automation, marketing, and customer support.</li>
    <li><a href="https://www.odoo.com/">Odoo</a> - Known as an ERP, Odoo includes a powerful CRM module that integrates with various business applications.</li>
@@ -77,6 +77,12 @@ List of Open Source Softwares in different Niche
 <h2>Open-Source VoIP Client</h2>
 <ul>
    <li><a href="https://www.linphone.org/">Linphone</a> - An open-source VoIP client that allows users to make voice and video calls over the internet with a user-friendly interface.</li>
+</ul>
+
+<h2>Medical Record System</h2>
+<ul>
+<li><a href="https://openmrs.org/">OpenMRS</a> - An open-source electronic medical record system (EMR) platform, designed to manage patient information and healthcare delivery in developing countries, offering features such as patient management, clinical data management, order management, reporting, and security.</li>
+<li><a href="https://bahmni.org/">Bahmni</a> - Open Source Hospital Management System & EMR built on top of OpenMRS, OpenELIS and Odoo. </li>   
 </ul>
 
 <h2>Content Management</h2>
