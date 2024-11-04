@@ -83,6 +83,7 @@ List of Open Source Softwares in different Niche
 <ul>
 <li><a href="https://openmrs.org/">OpenMRS</a> - An open-source electronic medical record system (EMR) platform, designed to manage patient information and healthcare delivery in developing countries, offering features such as patient management, clinical data management, order management, reporting, and security.</li>
 <li><a href="https://bahmni.org/">Bahmni</a> - Open Source Hospital Management System & EMR built on top of OpenMRS, OpenELIS and Odoo. </li>   
+<li><a href="https://open-emr.org/">OpenEMR</a> - is the most popular open source electronic health records and medical practice management solution. OpenEMR is a community of passionate volunteers and contributors dedicated to guarding OpenEMR’s status as a free, open source software solution for medical practices with a commitment to openness, kindness and cooperation.</li>
 </ul>
 
 <h2>Content Management</h2>
