@@ -65,6 +65,7 @@ List of Open Source Softwares in different Niche
    <li><a href="https://suitecrm.com/">SuiteCRM</a> - A widely used fork of SugarCRM, offering extensive features for sales automation, marketing, and customer support.</li>
    <li><a href="https://www.odoo.com/">Odoo</a> - Known as an ERP, Odoo includes a powerful CRM module that integrates with various business applications.</li>
    <li><a href="https://www.espocrm.com/">EspoCRM</a> - A user-friendly CRM with features for managing sales, marketing, and customer support, focused on customization and usability.</li>
+   <li><a href="https://www.vtiger.com/open-source-crm/download-open-source/#download">Vtiger CRM</a> - Open-source CRM for sales, marketing, and customer support, with modular applications for automation and service.</li>
    <li><a href="https://yetiforce.com/">YetiForce</a> - A robust CRM solution that emphasizes flexibility and adaptability, with modules for sales and project management.</li>
    <li><a href="https://civicrm.org/">CiviCRM</a> - Designed for non-profits and civic organizations, CiviCRM focuses on managing relationships with donors, volunteers, and constituents.</li>
 </ul>
