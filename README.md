@@ -19,6 +19,7 @@ List of Open Source Softwares in different Niche
 <h2>Email Servers</h2>
 <ul>
 <li><a href="https://mailcow.email/">Mailcow</a> - A secure, open-source email server solution providing end-to-end encryption, anti-spam filtering, and customizable settings for self-hosted email management.</li>
+<li><a href="https://stalw.art/">Stalwart</a> Mail Server is an open-source mail server solution with JMAP, IMAP4, POP3, and SMTP support and a wide range of modern features. It is written in Rust and designed to be secure, fast, robust and scalable.</li>
 </ul>
 
 <h2>SEO Ranking</h2>
