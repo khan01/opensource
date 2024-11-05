@@ -71,12 +71,12 @@ List of Open Source Softwares in different Niche
    <li><a href="https://civicrm.org/">CiviCRM</a> - Designed for non-profits and civic organizations, CiviCRM focuses on managing relationships with donors, volunteers, and constituents.</li>
 </ul>
 
-<h2>VoIP Communications</h2>
+<h2>Accounting and Bookkeeping</h2>
 <ul>
-   <li><a href="https://telnyx.com/">Telnyx</a> - A cloud-based VoIP service provider that offers voice, messaging, and connectivity solutions for businesses.</li>
+   <li><a href="https://akaunting.com/">Akaunting</a> - A free, open-source, and online accounting software for small businesses and freelancers.</li>
 </ul>
 
-<h2>Open-Source VoIP Client</h2>
+<h2>VoIP Communications</h2>
 <ul>
    <li><a href="https://www.linphone.org/">Linphone</a> - An open-source VoIP client that allows users to make voice and video calls over the internet with a user-friendly interface.</li>
 </ul>
