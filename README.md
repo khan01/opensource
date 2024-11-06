@@ -81,7 +81,7 @@ List of Open Source Softwares in different Niche
    <li><a href="https://www.orangehrm.com/">OrangeHRM</a> is a comprehensive Human Resource Management (HRM) System that captures all the essential functionalities required for any enterprise.</li>
 </ul>
 
-<h2>HRMS</h2>
+<h2>Project Management</h2>
 <ul>
    <li><a href="https://www.openproject.org">OpenProject</a>  is the leading open source project management software.</li>
 </ul>
