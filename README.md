@@ -76,6 +76,16 @@ List of Open Source Softwares in different Niche
    <li><a href="https://akaunting.com/">Akaunting</a> - A free, open-source, and online accounting software for small businesses and freelancers.</li>
 </ul>
 
+<h2>HRMS</h2>
+<ul>
+   <li><a href="https://www.orangehrm.com/">OrangeHRM</a> is a comprehensive Human Resource Management (HRM) System that captures all the essential functionalities required for any enterprise.</li>
+</ul>
+
+<h2>HRMS</h2>
+<ul>
+   <li><a href="https://www.openproject.org">OpenProject</a>  is the leading open source project management software.</li>
+</ul>
+
 <h2>VoIP Communications</h2>
 <ul>
    <li><a href="https://www.linphone.org/">Linphone</a> - An open-source VoIP client that allows users to make voice and video calls over the internet with a user-friendly interface.</li>
