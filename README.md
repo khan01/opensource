@@ -91,6 +91,11 @@ List of Open Source Softwares in different Niche
    <li><a href="https://www.linphone.org/">Linphone</a> - An open-source VoIP client that allows users to make voice and video calls over the internet with a user-friendly interface.</li>
 </ul>
 
+<h2>Geospatial Data Server</h2>
+<ul>
+<li><a href="https://geoserver.org/">GeoServer</a> - An open-source server that allows users to share, process, and edit geospatial data, publishing data from any major spatial data source using open standards.</li>
+</ul>
+
 <h2>Medical Record System</h2>
 <ul>
 <li><a href="https://openmrs.org/">OpenMRS</a> - An open-source electronic medical record system (EMR) platform, designed to manage patient information and healthcare delivery in developing countries, offering features such as patient management, clinical data management, order management, reporting, and security.</li>
