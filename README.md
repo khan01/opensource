@@ -63,6 +63,8 @@ List of Open Source Softwares in different Niche
 
 <h2>ERP - CRM</h2>
 <ul>
+   <li><a href="https://twenty.com/">Twenty</a> - Building a modern alternative to Salesforce, powered by the community.</li>
+   <li><a href="https://www.nocobase.com/">NoCoBase</a> - NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.</li>
    <li><a href="https://suitecrm.com/">SuiteCRM</a> - A widely used fork of SugarCRM, offering extensive features for sales automation, marketing, and customer support.</li>
    <li><a href="https://www.odoo.com/">Odoo</a> - Known as an ERP, Odoo includes a powerful CRM module that integrates with various business applications.</li>
    <li><a href="https://www.espocrm.com/">EspoCRM</a> - A user-friendly CRM with features for managing sales, marketing, and customer support, focused on customization and usability.</li>
@@ -103,12 +105,18 @@ List of Open Source Softwares in different Niche
 <li><a href="https://open-emr.org/">OpenEMR</a> - is the most popular open source electronic health records and medical practice management solution. OpenEMR is a community of passionate volunteers and contributors dedicated to guarding OpenEMR’s status as a free, open source software solution for medical practices with a commitment to openness, kindness and cooperation.</li>
 </ul>
 
-<h2>Content Management</h2>
+<h2>Content Management - CMS</h2>
 <ul>
    <li><a href="https://wordpress.org/">WordPress</a> - A widely used open-source content management system that enables users to create and manage websites easily.</li>
 </ul>
 
+
 <h2>Mapping and Geolocation Services</h2>
 <ul>
    <li><a href="https://www.openstreetmap.org/">OpenStreetMap</a> - A collaborative mapping project that provides free geographic data and mapping to anyone who wants to use it.</li>
+</ul>
+
+<h2>APIs</h2>
+<ul>
+   <li><a href="https://www.unkey.com/">Unkey</a> - The Developer Platform for Modern APIs</li>
 </ul>
