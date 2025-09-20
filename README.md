@@ -46,6 +46,7 @@ List of Open Source Softwares in different Niche
 <ul>
    <li><a href="https://n8n.io">n8n</a> - A powerful workflow automation tool that allows you to connect various apps and services with a user-friendly interface.</li>
    <li><a href="https://nodered.org">Node-RED</a> - A flow-based development tool for visual programming, ideal for connecting IoT devices and APIs.</li>
+   <li><a href="https://kestra.io/">Kestra</a> - An orchestrator designed to bring Infrastructure as Code (IaC) best practices to all workflows</li>
    <li><a href="https://airflow.apache.org">Apache Airflow</a> - A platform to programmatically author, schedule, and monitor workflows, suitable for managing data workflows.</li>
    <li><a href="https://github.com/huginn/huginn">Huginn</a> - A system for building agents that perform automated tasks online, allowing you to create agents for various events.</li>
    <li><a href="https://baserow.io">Baserow</a> - An open-source no-code database tool that can be integrated with various services, providing automation capabilities.</li>
